@@ -157,6 +157,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [TestingBot](https://testingbot.com) - TestingBot provides easy cross browser testing with Selenium in the cloud.
 - [Mail7](https://www.mail7.io/) - Disposable email service to automate the email workflow testing.
 - [Hyperbrowser](https://hyperbrowser.ai/) - Browser infrastructure and automation for running and scaling Selenium automations with headless Chrome with advanced features like proxies, captcha solving, and session recording.
+- [Mockatoo](https://mockatoo.globalunderdog.com) - Free hosted mock OAuth provider, so Selenium tests can sign in with GitHub, Google and six other providers without real accounts or CAPTCHAs. [This guide](https://mockatoo.globalunderdog.com/docs/selenium) shows the WebDriver steps.
 
 ### Device Farms
 
